@@ -1,4 +1,4 @@
 # Demo
 description!
 ##subheader
-i am learning git hub
+i learnt git hub
